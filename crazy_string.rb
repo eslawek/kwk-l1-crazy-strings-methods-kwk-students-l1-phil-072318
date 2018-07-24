@@ -5,4 +5,4 @@ def crazy_strings(a, b)
  
 end
 
-crazy_strings("Hello" , "Friends")
+crazy_strings("Hello","Friends")
